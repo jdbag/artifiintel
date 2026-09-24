@@ -1,14 +1,11 @@
-[[redirects]]
+[[rewrites]]
 source = "/payment/approve"
 destination = "/api/payment-approve"
-statusCode = 200
 
-[[redirects]]
+[[rewrites]]
 source = "/payment/complete"
 destination = "/api/payment-complete"
-statusCode = 200
 
-[[redirects]]
+[[rewrites]]
 source = "/payment/cancel"
 destination = "/api/payment-cancel"
-statusCode = 200
